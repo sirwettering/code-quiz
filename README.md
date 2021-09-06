@@ -49,3 +49,16 @@ https://sirwettering.github.io/code-quiz/
 https://github.com/sirwettering/code-quiz
 
 ## Screenshots:
+
+Start Page:
+
+![start-page](https://user-images.githubusercontent.com/88121961/132157828-1dcfcf2f-ad5a-48be-b18e-44e86e841880.PNG)
+
+Answer Feedback:
+
+![correct-answer](https://user-images.githubusercontent.com/88121961/132157845-d3ee3053-f125-42e2-bf5d-1e452c8e1804.PNG)
+![wrong-answer](https://user-images.githubusercontent.com/88121961/132157851-9d3ea2a5-ea88-4856-9d65-0b924f9156f6.PNG)
+
+Highscores Page:
+
+![highscores-page](https://user-images.githubusercontent.com/88121961/132157867-f450012e-7200-41b5-b8c2-50005bc7219f.PNG)
